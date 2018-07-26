@@ -14,7 +14,7 @@ class Ideone
         
         if((ch>='a' && ch<='z')||(ch>='A' && ch<='Z'))
        {
-         System.out.println("Alphabet"+ch);
+         System.out.println("Alphabet");
  	    }
        else
         System.out.println("Not");
