@@ -14,16 +14,13 @@ class Ideone
         int num=sc.nextInt();
         if(num>0)
         {
-         System.out.println("num is  postive number");
+         System.out.println(" positive");
         }
         if(num<0)
         {
-         System.out.println("num negative number");
+         System.out.println(" negative ");
         }
-        if(num==0)
-        {
-         System.out.println("num is neither positive nor negative");
-        }
+        
 
     
     
