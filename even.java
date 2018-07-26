@@ -12,14 +12,14 @@ class Ideone
 		
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
-       System.out.println("input:"+num);
+       
         if(num%2==0)
         {
          System.out.println("even");
         }
         else
         {
-         System.out.println("odd");
+         System.out.println("Odd");
         }
         
     
