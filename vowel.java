@@ -9,14 +9,14 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		boolean isVowel=false;
+		int i=0;
 		Scanner sc=new Scanner(System.in);
         char ch=sc.next().charAt(0);
-        if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch='U')
+        if(ch=='a'||ch=='e'||ch=='i'||ch=='o'||ch=='u'||ch=='A'||ch=='E'||ch=='I'||ch=='O'||ch=='U')
         {
          System.out.println("Vowel"+ch);
         }
-        else if((ch>='a'&&ch<='z')||(ch>='A'&&ch='Z'))
+        else if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
        {
          System.out.println("Consonant"+ch);
  	    }
