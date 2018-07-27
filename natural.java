@@ -20,6 +20,6 @@ class Ideone
 
        System.out.println(total);
     }
-		}
-	}
+		
+	
 }
