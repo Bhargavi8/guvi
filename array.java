@@ -9,9 +9,9 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		Scanner sc=new Scanner(System.in);
-		int n=sc.nextInt();
-		int k=sc.nextInt();
+		
+		int n=5;
+		int k=2;
 		int sum=0;
        for(int i=1;i<=5;i++)
        {
