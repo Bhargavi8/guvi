@@ -12,11 +12,12 @@ class Ideone
 		Scanner sc=new Scanner(System.in);
 		int n=sc.nextInt();
 		int k=sc.nextInt();
-		int sum=o;
+		int sum=0;
 		for(int i=1;i<=k;i++)
 		{
-			sum=i+1
+			sum=i+1;
+		}	
 			System.out.println(sum);
-		}
+		
 	}
 }
