@@ -10,7 +10,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		double a=2;
-        double n=3;
+        double n=2;
         
         double res=Math.pow(a,n); 
         int i=(int) res;
