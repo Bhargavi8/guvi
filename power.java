@@ -9,10 +9,12 @@ class Ideone
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		long a=2;
-        long n=3;
+		double a=2;
+        double n=3;
         
-        System.out.println(Math.pow(a,n)); 
+        double res=Math.pow(a,n); 
+        int i=(int) res;
+        System.out.println(i);
         
 	}
 }
