@@ -13,11 +13,14 @@ class Ideone
 		int n=sc.nextInt();
 		int k=sc.nextInt();
 		int sum=0;
-		for(int i=1;i<=k;i++)
+       for(int i=1;i<=5;i++)
+       {
+		for(int j=1;j<=k;j++)
 		{
-			sum=i+1;
+			sum=j+1;
 		}	
-			System.out.println(sum);
+		}	
+         System.out.println(sum);
 		
 	}
 }
