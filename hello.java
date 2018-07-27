@@ -10,7 +10,7 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		String s="Hello";
-		for(int i=0;i<=4;i++)
+		for(int i=1;i<=2;i++)
 		System.out.println(s);
 	}
 }
