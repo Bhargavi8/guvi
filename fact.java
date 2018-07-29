@@ -18,7 +18,7 @@ class Ideone
 public static void main (String[] args)
 {
 int i,fact=1;
-int n=5;
+int n=0;
 fact=factorial(n);
 System.out.println(fact);
 }
