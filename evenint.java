@@ -27,7 +27,7 @@ System.out.println("Input:");
 				
 		{
 					
-			System.out.print("  "+p);
+			System.out.print(" Excepted Output:\n "+p);
 		
 		}
 	
