@@ -4,8 +4,8 @@ class Prime
 public  static void main(String args[])
 {
 Scanner sc=new Scanner(System.in);
-int n=1;
-int q=10;
+int n=sc.nextInt();
+int q=sc.nextInt();
 while(n<q)
 {
 boolean flag=true;
