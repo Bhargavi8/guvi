@@ -30,8 +30,8 @@ class Ideone
         }
       for(int i=0;i<n-1;i++)
       {
-       System.out.println(a[i]);
+       System.out.print("  "+a[i]);
       }
-        System.out.println(a[n-1]);
+        System.out.print("  "+a[n-1]);
 	}
 }
