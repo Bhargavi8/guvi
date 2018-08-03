@@ -14,11 +14,11 @@ class Ideone
 			c=sc.next().charAt(0);
 			if(c>='0'&&c<='9')
 			{
-				System.out.println("Yes");
+				System.out.println("yes");
 			}
 			else
 			{
-				System.out.println("No");
+				System.out.println("no");
 			}
 			
 	}
