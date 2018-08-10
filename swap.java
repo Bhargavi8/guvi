@@ -1,5 +1,3 @@
-* package whatever; // don't place package name! */
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -11,12 +9,12 @@ class Ideone
 	{
 		// your code goes here
 		Scanner sc=new Scanner(System.in);
-		int a=sc.nextInt();
-		int b=sc.nextInt();
-		int temp;
-		temp=a;
-		a=b;
-		b=temp;
-		System.out.println(a+" "+b);
+		int k=sc.nextInt();
+		int j=sc.nextInt();
+		int i;
+		i=k;
+		k=j;
+		j=i;
+		System.out.println(k+" "+j);
 	}
 }
