@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Count_Special_char {
+ class Count_Spec {
 	public static void fun(String special)
 	{
 		String str;
