@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
- class Count_Spec {
+ class Count_Sp {
 	public static void fun(String special)
 	{
 		String str;
@@ -31,4 +31,3 @@ import java.util.Scanner;
 	}
 
 }
-
