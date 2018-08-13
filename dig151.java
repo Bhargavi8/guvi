@@ -45,7 +45,7 @@ class Ideone
 
                       if(i>=1)
 
-                        System.out.println("");
+                        System.out.println(" ");
 
       }
      
