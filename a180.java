@@ -1,5 +1,10 @@
+
+
+
+
+
 import java.util.Scanner;
- class Ideone1
+ class Ideone2
  {
 
 	public static void main(String[] args)
